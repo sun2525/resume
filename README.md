@@ -22,4 +22,4 @@
 
 [hallym]:www.hallym.ac.kr
 
-[한림][
+[한림][hallym]
