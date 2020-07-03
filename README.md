@@ -20,7 +20,7 @@
 
 <a href=www.hallym.ac.kr>한림대학교</a>
 
-주소 목록을 별로로 관리 할 수있다.
+주소 목록을 별로로 관리 할 수있다.  
 [hallym]:https://www.hallym.ac.kr
 
 [한림][hallym]
