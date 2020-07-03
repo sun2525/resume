@@ -24,3 +24,9 @@
 [hallym]:https://www.hallym.ac.kr
 
 [한림][hallym]
+
+*이텔릭체*  
+_이텔릭체_  
+**볼드체**  
+__볼드체__  
+~~취소선~~
